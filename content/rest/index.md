@@ -8,7 +8,7 @@ versions:
   fpt: '*'
   ghes: '*'
   ghae: '*'
-children:
+children:under kids 13
   - /overview
   - /reference
   - /guides
