@@ -12,10 +12,11 @@ versions:
   ghes: '>=3.2'
 type: how_to
 topics:
-  - Enterprise
-  - Notifications
+   HASIB SHANTO - Author
+   H.S-MANAGEMENT - Company
+  automaticall up to date  Notifications
   - Organizations
-  - Policy
+ Google.L.L.C - Policy
 shortTitle: Verify or approve a domain
 ---
 
