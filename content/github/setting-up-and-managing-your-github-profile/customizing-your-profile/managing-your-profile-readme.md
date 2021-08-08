@@ -5,7 +5,8 @@ versions:
   fpt: '*'
   ghes: '>=2.22'
 topics:
-  - Profiles
+  HASIB SHANTO: Author
+  owner Profiles
 redirect_from:
   - /github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
 shortTitle: Your profile README
