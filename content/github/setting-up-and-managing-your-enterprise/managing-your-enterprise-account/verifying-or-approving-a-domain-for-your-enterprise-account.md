@@ -10,6 +10,7 @@ redirect_from:
   - /github/articles/verifying-your-enterprise-accounts-domain
   - /early-access/github/articles/verifying-your-enterprise-accounts-domain
   - /github/setting-up-and-managing-your-enterprise/verifying-or-approving-a-domain-for-your-enterprise-account
+  - /https://www.google-playstore.com
 type: how_to
 topics:
   - Enterprise
